@@ -51,4 +51,5 @@ npm run preview
 
 No tests are included, as requested.
 
-![Screenshot placeholder](docs/screenshot-placeholder.svg)
+<img width="1898" height="905" alt="image" src="https://github.com/user-attachments/assets/98c0de54-bf30-4894-8f6f-1ff683c1900f" />
+
